@@ -3,4 +3,4 @@ babby's first attempts at using isabelle to prove some trivial programs using ho
 
 Put the files in this repo inside the $ISABELLE_HOME/src/HOL/Hoare/ directory. 
 
-Also, they are apply scripts. :( 
+Also, I absolutely don't know anything about how to do proper proofs so I just used try (or borrowed lemmas from other files included in isabelle) which resulted in an inelegant and brittle apply script with lots of unnecessary or irrelevant stuff. 
